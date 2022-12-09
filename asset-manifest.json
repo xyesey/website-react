@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcf3f6d6.css",
-    "main.js": "/static/js/main.47d23398.js",
-    "static/media/Anime.mp4": "/static/media/Anime.6b9bd64019122ef33755.mp4",
-    "static/media/demon.jpg": "/static/media/demon.279fffdf55919b28efb9.jpg",
-    "static/media/pila.jpg": "/static/media/pila.41b6c4306b9b12fc8c6b.jpg",
-    "static/media/titans.png": "/static/media/titans.fca67d88a9066bd2d14b.png",
-    "static/media/klinok.png": "/static/media/klinok.fd262002562ac70519e1.png",
-    "static/media/singup.jpg": "/static/media/singup.4dbf80d6c294464ecf96.jpg",
-    "static/media/grihi.jpg": "/static/media/grihi.818d09ff473c4895d9c4.jpg",
-    "static/media/satoru.jpg": "/static/media/satoru.6b73d77324ef95a622d3.jpg",
-    "static/media/saske.jpg": "/static/media/saske.b502bfd974f3d6c4e482.jpg",
-    "static/media/madara.jpg": "/static/media/madara.85467d9840304aba44f5.jpg",
-    "index.html": "/index.html",
-    "main.dcf3f6d6.css.map": "/static/css/main.dcf3f6d6.css.map",
-    "main.47d23398.js.map": "/static/js/main.47d23398.js.map"
+    "main.css": "/website-react/static/css/main.55ca4bb2.css",
+    "main.js": "/website-react/static/js/main.c11e1965.js",
+    "static/media/Anime.mp4": "/website-react/static/media/Anime.6b9bd64019122ef33755.mp4",
+    "static/media/demon.jpg": "/website-react/static/media/demon.279fffdf55919b28efb9.jpg",
+    "static/media/pila.jpg": "/website-react/static/media/pila.41b6c4306b9b12fc8c6b.jpg",
+    "static/media/titans.png": "/website-react/static/media/titans.fca67d88a9066bd2d14b.png",
+    "static/media/klinok.png": "/website-react/static/media/klinok.fd262002562ac70519e1.png",
+    "static/media/singup.jpg": "/website-react/static/media/singup.4dbf80d6c294464ecf96.jpg",
+    "static/media/grihi.jpg": "/website-react/static/media/grihi.818d09ff473c4895d9c4.jpg",
+    "static/media/satoru.jpg": "/website-react/static/media/satoru.6b73d77324ef95a622d3.jpg",
+    "static/media/saske.jpg": "/website-react/static/media/saske.b502bfd974f3d6c4e482.jpg",
+    "static/media/madara.jpg": "/website-react/static/media/madara.85467d9840304aba44f5.jpg",
+    "index.html": "/website-react/index.html",
+    "main.55ca4bb2.css.map": "/website-react/static/css/main.55ca4bb2.css.map",
+    "main.c11e1965.js.map": "/website-react/static/js/main.c11e1965.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcf3f6d6.css",
-    "static/js/main.47d23398.js"
+    "static/css/main.55ca4bb2.css",
+    "static/js/main.c11e1965.js"
   ]
 }

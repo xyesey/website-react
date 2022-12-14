@@ -1,2 +1,2 @@
-# Первый проект более крупный проект на React с применением React-Router
+# Первый более крупный проект на React с применением React-Router
 # https://xyesey.github.io/website-react/
